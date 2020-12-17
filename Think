@@ -145,7 +145,7 @@ https://ss8.domint.net:3110/s7v_str/super7fm/chunklist_w52547188.m3u8
 https://video.misistemareseller.com:443/puravidatv/puravidatv/chunklist_w1019704079.m3u8
  
 #EXTINF:-1 tvg-logo="https://elnuevodiario.com.do/wp-content/uploads/2020/08/pura-640x640.jpg" group-title="DOMINICANOS", Mortal 104.9 FM | HD
-https://player-api.new.livestream.com/accounts/27456795/events/9288767/broadcasts/215025921/live.m3u8
+https://player-api.new.livestream.com/accounts/27456795/events/9288767/live.m3u8
  
 #EXTINF:-1 tvg-logo="http://www.hilandofinotv.com/wp-content/uploads/2017/04/cropped-logo-tv-3.png" group-title="DOMINICANOS", Hilando Fino TV | HD
 https://4k-server-mia.2cdn.eu//HilandoFinoTV/ngrp:HilandoFinoTV_all/chunklist_w1079087093_b2628000.m3u8
