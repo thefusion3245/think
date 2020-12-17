@@ -1,0 +1,232 @@
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://orionstreet.com/wp-content/uploads/2017/10/information-icon-md.png" group-title="DOMINICANOS", Importante | HD
+https://3.bp.blogspot.com/-FwmmULiqHlU/XLTEEUdYKgI/AAAAAAAAD84/JtaLnKPepn4xxd2VTjvwKwHwu5A4fDZNgCEwYBhgL/s1600/537457-download-light-blue-backgrounds-1920x1080-for-hd-1080p1.jpg
+ 
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1492698011935-Imagen.png" group-title="DOMINICANOS", Teleantillas | SD
+https://ss4.domint.net:3040/ta2_str/teleantillas/chunklist_w910468257.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://altice.com.do/sites/default/files/assets/grilla_canales/img/logos/CERTVRTVD.png" group-title="DOMINICANOS", Canal 4RD | HD
+http://api.new.livestream.com/accounts/27035275/events/8371710/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://altice.com.do/sites/default/files/assets/grilla_canales/img/logos/Telemicro.png" group-title="DOMINICANOS", Telemicro | SD
+http://51.89.152.28:80/hls/tmicro.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1493140126797-Imagen.png" group-title="DOMINICANOS", Telemicro | HD
+https://api.new.livestream.com/accounts/28126860/events/8825282/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1496684778213-Imagen.png" group-title="DOMINICANOS", Canal del Sol | HD
+http://canaldelsol01.streamprolive.com/hls/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/20/Antena_7.png" group-title="DOMINICANOS", Antena 7 | SD
+http://51.89.152.28:80/hls/alatina.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1493140424774-Imagen.png" group-title="DOMINICANOS", Color Vision 9 | HD
+https://www.dailymotion.com/cdn/live/video/x7gy059.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/836673683997483013/9xtjWyh6_400x400.jpg" group-title="DOMINICANOS", Microvision 10 | HD
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1527085984.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://telesistema11.com.do/themes/telesistemas/assets/img/logo-telesistemas.png" group-title="DOMINICANOS", Telesistema 11 | SD
+http://ss3.domint.net:2114/t11_str/telesistema/chunklist_w1420098300.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/b/b9/Telecentro_RD.png/revision/latest?cb=20180518002834" group-title="DOMINICANOS", Telecentro 13 | SD
+http://api.new.livestream.com/accounts/28126860/events/8555433/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://altice.com.do/sites/default/files/assets/grilla_canales/img/logos/Digital15.png" group-title="DOMINICANOS", Digital 15 | SD
+https://playback.akamaized.net/streams/27456795_8268514_lsilgsxbse8qyyi6ocz_1/media/27456795_8268514_lsilgsxbse8qyyi6ocz_1@628000p.m3u8?dw=80&ts=1592870400&hdnts=exp=1593043993~acl=/streams/27456795_8268514_lsilgsxbse8qyyi6ocz_1/media*~hmac=18a8c5e383d35fa9c74b655ad54c5f6101b000ba7bb47a3ff396509ae0eb6e05
+ 
+#EXTINF:-1 tvg-logo="http://teleuniontvrd.com/wp-content/themes/rt_fluent/custom/images/teleunnionboton.png?5a52e3bf" group-title="DOMINICANOS", Teleunion Santiago | SD
+http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w1461630727.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.canal19.do/wp-content/uploads/2018/06/logo-300-x-300.png" group-title="DOMINICANOS", Cinevision 19 | SD
+http://cinevision01.streamprolive.com/hls/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://192.157.238.244:5016/images/brand/pgblocks-logo-nostrap_1.png" group-title="DOMINICANOS", Teletur | SD
+https://cdn.hostlagarto.com:4445/teletur/teletur.myStream/chunks.m3u8?nimblesessionid=29980550
+ 
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1529437346307-Imagen.png" group-title="DOMINICANOS", Antena 21 | SD
+https://do-antena7-canal21-live.ned.media:443/antena7/smil:canal21.smil/chunklist_b1128000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTg3MzYyMTM0LCJzZXNzaW9uIjoiMTQ4LjEwMy4yNTUuMjciLCJ3aGl0ZWxpc3QiOlsiMTQ4LjEwMy4yNTUuMjciXX0sInNpZ25hdHVyZSI6IjcyYzYwOWYyMGZiOWJkMGE0OTg3Nzk1NDRmOWU3MzQ2NWRmMjFmOTQifQ%3D%3D
+ 
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1492717112765-Imagen.png" group-title="DOMINICANOS", Telefuturo 23 | SD
+http://ss8.domint.net:2118/tf_str/futu/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1498491353606-Imagen.png" group-title="DOMINICANOS", Canal 25 | SD
+https://ss3.domint.net:3122/c25_str/canal25/chunklist_w80683587.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1492781990234-Imagen.png" group-title="DOMINICANOS", Carivision | SD
+http://ss6.domint.net:2012/tes_str/teleelsalvador/chunklist_w1112963911.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/99/Rnn2017.png" group-title="DOMINICANOS", RNN 27 | HD
+https://ss2.domint.net:3202/rnn_str/canal27/chunklist_w132968452.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://altice.com.do/sites/default/files/assets/grilla_canales/img/logos/Teleuniverso.png" group-title="DOMINICANOS", Teleuniverso 29 | HD
+https://cloudflare.streamgato.us:3437/live/teleuniversotvlive.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1526411544337-Imagen.png" group-title="DOMINICANOS", EN Television | SD
+https://5d4a00b8a0738.streamlock.net:443/8068/8068/chunklist_w930489751.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/MUX1IJB-r_Y/hqdefault.jpg" group-title="DOMINICANOS", Acento TV | HD
+http://acentotv01.streamprolive.com/hls/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://vtvrd.com/wp-content/uploads/2018/11/LOGO2.png" group-title="DOMINICANOS", VTV 32 | HD
+https://5790d294af2dc.streamlock.net/8256/8256/chunklist_w450442833.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.arecoa.com/wp-content/uploads/2019/08/9aa23ad9-logo-nuevo-cdn.png" group-title="DOMINICANOS", CDN 37 | HD
+http://51.89.152.28/hls/cdn.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/media/Dz4dfGYXQAAEY4Y.jpg" group-title="DOMINICANOS", Mango TV | SD
+http://mangotv01.streamprolive.com/hls/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1492784157775-Imagen.png" group-title="DOMINICANOS", Coral 39 | SD
+http://51.89.152.28:80/hls/coral39.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1492782497044-Imagen.png" group-title="DOMINICANOS", La Voz de Maria | SD
+https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w1130714150.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1492784309138-Imagen.png" group-title="DOMINICANOS", Romana TV | SD
+http://tv.romanatv42.com/hls/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://altice.com.do/sites/default/files/assets/grilla_canales/img/logos/MegaVision.png" group-title="DOMINICANOS", Megavision 43 | SD
+http://stream3.prostudionetwork.com:1943/megavision/MV/chunklist_w1166112785.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://altice.com.do/sites/default/files/assets/grilla_canales/img/logos/Teleradioamerica.png" group-title="DOMINICANOS", Teleradio America | SD
+https://ss4.domint.net:3008/tra_str/canal45/chunklist_w90520076.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1497302869949-Imagen.png" group-title="DOMINICANOS", Luna TV 53 | HD+
+http://ss1.domint.net:2140/luna_str/lunatv/chunklist_w1647680641.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1492785354590-Imagen.png" group-title="DOMINICANOS", Supertv 55 | SD
+http://ss8.domint.net:2128/stv_str/tv55/chunklist_w1421148936.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1492785354590-Imagen.png" group-title="DOMINICANOS", Punta cana | SD
+https://cdn4.hostlagarto.com:8081/puntacanatv/tracks-v1a1/mono.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://ctn.com.do/wp-content/uploads/2018/06/Logo-CTN-Pagina-1.png" group-title="DOMINICANOS", Telecibao | HD
+https://cm.hostlagarto.com:4445/Telecibao/Telecibao/chunks.m3u8?nimblesessionid=80818570
+ 
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1526411239508-Imagen.png" group-title="DOMINICANOS", Boreal Television | HD
+https://5b38ce71f1f00.streamlock.net:443/8180/8180/chunklist_w80436397.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1492788392832-Imagen.png" group-title="DOMINICANOS", Digital Vision 63 | SD
+https://ss1.domint.net:3106/dv6_str/digitalvision/chunklist_w1092388345.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1492788481942-Imagen.png" group-title="DOMINICANOS", Comunion TV | SD
+http://50.30.37.36:1935/live/stream/chunklist_w2057963116.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.telenord.com.do/images/canales/Icons/Mamei/Canal_8.jpg" group-title="DOMINICANOS", Telenord 8 | HD
+http://newyorkstreamss2.ddns.net:28987/telenord8/telenord8/chunklist_w515419504.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.telenord.com.do/images/canales/Icons/Mamei/Canal_10.jpg" group-title="DOMINICANOS", Telenord 10 | HD
+http://newyorkstreamss2.ddns.net:28987/telenord10/telenord10/chunklist_w1179519086.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1492788167904-Imagen.png" group-title="DOMINICANOS", Telecontacto | SD
+http://siglo21.dnsalias.com:8080/mylive/telecontacto57/tracks-v1a1/mono.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://zolfm.com/images/logo.png" group-title="DOMINICANOS", Zol FM | SD
+https://ss3.domint.net:3108/zol_str/vzol/chunklist_w1065943478.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/4c/ce/10732/1/c175.png" group-title="DOMINICANOS", Los 40 | HD
+https://ss2.domint.net:3208/40s_str/los40rd/chunklist_w1597021849.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://z101digital.com/wp-content/themes/z-101-digital/imgs/podcasts/audios-destacados.jpg" group-title="DOMINICANOS", Z101| HD
+https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1283151187899015168/KUzvWAMk_400x400.jpg" group-title="DOMINICANOS", Neon 89.3 FM | HD
+https://ss8.domint.net:3104/neo_str/neontv/chunklist_w436201506.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://domintapi.com/images/station/domint41img05-18-20201589833855.jpeg" group-title="DOMINICANOS", Studio 88.5 FM | HD
+https://ss5.domint.net:3030/stu_str/studiotv/chunklist_w1160594393.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/e5/7b/e57becf6dc7273bb2ee26ea501c1c8db.jpg" group-title="DOMINICANOS", La súper 7 | HD
+https://ss8.domint.net:3110/s7v_str/super7fm/chunklist_w52547188.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://elnuevodiario.com.do/wp-content/uploads/2020/08/pura-640x640.jpg" group-title="DOMINICANOS", Pura Vida | HD
+https://video.misistemareseller.com:443/puravidatv/puravidatv/chunklist_w1019704079.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://elnuevodiario.com.do/wp-content/uploads/2020/08/pura-640x640.jpg" group-title="DOMINICANOS", Mortal 104.9 FM | HD
+https://player-api.new.livestream.com/accounts/27456795/events/9288767/broadcasts/215025921.live.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.hilandofinotv.com/wp-content/uploads/2017/04/cropped-logo-tv-3.png" group-title="DOMINICANOS", Hilando Fino TV | HD
+https://4k-server-mia.2cdn.eu//HilandoFinoTV/ngrp:HilandoFinoTV_all/chunklist_w1079087093_b2628000.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1492786754684-Imagen.png" group-title="DOMINICANOS", Xtremo Vision | SD
+http://ss1.domint.net:2120/xtr_str/xtremo/chunklist_w1426118612.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://orbitcable.com.do/v2/wp-content/uploads/2018/04/OrbitHD-290x164.png" group-title="DOMINICANOS", Orbit TV | HD
+https://ss3.domint.net:3134/otv_str/orbittv/chunklist_w586389676.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.musavision.com/wp-content/uploads/2017/12/logob.png" group-title="DOMINICANOS", Musavision | HD
+https://cm.hostlagarto.com:4445/Musavisionhd/Musavisionhd/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://www.supercable.com/supercable/wp-content/uploads/2018/03/latin-music-tv.png" group-title="DOMINICANOS", Latin Music TV | HD+
+https://www.latinmusictv.net/livestream/chunks.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://sitvrd.com/sitv/wp-content/uploads/2017/07/logositvnormal.png" group-title="DOMINICANOS", SI TV | HD
+http://190.122.104.220/Player/sitv.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://1.bp.blogspot.com/-665dE4CJZxI/WJO0GDlTa1I/AAAAAAAADHE/Z3ARBtKsFcEy5fK_GLmoGXjVCzzuGVT8wCLcB/s1600/Vegateve%2Ben%2Bvivo%2Bcanal%2B12%2BLa%2Bvega%2Bhd.jpg" group-title="DOMINICANOS", Vegateve | SD
+https://5b21b94eec37e.streamlock.net:1935/vegateve/_definst_/vegateve.stream/chunklist_w263107717.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://emisoradominicana.net/television/wp-content/uploads/2015/06/tv-recuerdos-56.jpg" group-title="DOMINICANOS", TV Recuerdos 56 | SD
+http://media.az-streamingserver.com:1935/7230/7230/chunklist_w65422133.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://farovision.net/wp-content/uploads/2018/03/logo-faro-vision.png" group-title="DOMINICANOS", Farovision | SD
+http://184.173.181.2:1935/8060/8060/chunklist_w727510803.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/378800000610192619/615147c0e6bbc81414eff047e9e6e668.png" group-title="DOMINICANOS", Delta TV | SD
+http://cm.hostlagarto.com:8081/deltatv/deltatv50.myStream/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://i1.wp.com/www.elmasacre.com/wp-content/uploads/2018/09/44B47294-2457-4F9A-B314-72536195D59E.png" group-title="DOMINICANOS", Linieros TV | HD
+http://cm.hostlagarto.com:8081/LinierosTV/linieros.myStream/chunks.m3u8?nimblesessionid=4619261
+ 
+#EXTINF:-1 tvg-logo="http://cielotvcristiana.com/images/LOGO.png" group-title="DOMINICANOS", Cielo TV | SD
+https://5d79ae45bc63b.streamlock.net/cielotv/cielotv/chunklist_w1595746249.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://assets.cdn.olympusat.com/wp-content/uploads/2017/04/TelekaribeN_logo1.png" group-title="DOMINICANOS", Telekaribe | HD
+http://ss1.domint.net:2208/tka_str/telekaribe/chunklist.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://scontent.fhex1-1.fna.fbcdn.net/v/t1.0-9/14199753_1742671005982728_206045130106586984_n.jpg?_nc_cat=100&_nc_ht=scontent.fhex1-1.fna&oh=21e828b3ad71c6fee92b6866daf5cf1f&oe=5CD0E6C5" group-title="DOMINICANOS", Ame 47| SD
+http://ss6.domint.net:2028/ame_str/amecanal47/chunklist_w789291520.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.eltiempo.com.do/wp-content/uploads/2017/08/Punta-Cana-TV-Logo.png" group-title="DOMINICANOS", Punta Cana TV | HD
+https://59f1cbe63db89.streamlock.net:1443/domart/_definst_/domart/chunklist_w1148770318.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://dominicanchannels.net/wp-content/uploads/2014/12/galaxiatv.png" group-title="DOMINICANOS", Galaxia TV | SD
+http://siglo21.dnsalias.com:8080/mylive/galaxiatv/tracks-v1a1/mono.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://santiagotv36.com/wp-content/uploads/2014/09/Logo-web1.png" group-title="DOMINICANOS", Telemilenio | SD
+http://cm.hostlagarto.com:8081/Telemilenio/Telemilenio.myStream/chunks.m3u8?nimblesessionid=4623595
+ 
+#EXTINF:-1 tvg-logo="https://scontent.fhex1-1.fna.fbcdn.net/v/t1.0-9/15170811_377460115931109_4407814838856295284_n.jpg?_nc_cat=110&_nc_ht=scontent.fhex1-1.fna&oh=4c1152c2acbeab20895a3ee28ec2ab1f&oe=5D014ACD" group-title="DOMINICANOS", Telecanal 12 MAO | SD
+https://59f2354c05961.streamlock.net:1443/tele12/_definst_/tele12/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://dominicanchannels.net/wp-content/uploads/2014/10/cana-tv1.png" group-title="DOMINICANOS", Cana TV | SD
+https://59f1cbe63db89.streamlock.net:1443/canavisiontv/_definst_/canavisiontv/chunklist_w950057444.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://www.claro.com.do/portal/do/gc/canales/1492788435596-Imagen.png" group-title="DOMINICANOS", GDM Studio TV | SD
+https://cm.hostlagarto.com:4445/gdmstudiotv/gdmstudiotv.myStream/chunks.m3u8?nimblesessionid=4593961
+ 
+#EXTINF:-1 tvg-logo="http://juanvmedrano.com/readytv/wp-content/uploads/2016/12/Ready-Logo-2016-oi2.png" group-title="DOMINICANOS", Ready TV | SD
+http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist_w256242245.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://metrovision.com.do/images/MAzul.jpg" group-title="DOMINICANOS", Metrovision | HD
+http://metrovision01.streamprolive.com/hls/live.m3u8
+ 
+#EXTINF:-1 tvg-logo="http://colimdotv.com/logo.fw.png" group-title="DOMINICANOS", Colimdotv | HD
+http://185.93.1.99:25461/live/antonio1/FV08ETb5On/1772.m3u8?token=HRtZUxZfQQIRUwJbUwFUBlBTCwRQUgJRVQZUDQRQVgEHXAIBA1FUAVdGHRsVFxdQBFpmDAFGDFIGAFcURxQVXBRmWFZHDUEJAlEEDlRBSRcRXlQAR14GTxNHDFxHW0QLUQsABUcbQV1LEFRLCAIJagFSTwwGARRZX0IJVElDCVc5XVRfBFkHGglGARtKQQxGFRUDCxAIWk8TVQxMFwASXEQDEwdVBVQaH0ZSVhMNEUccFQNHISsUTxNSHUwADxVQCVcTCEdaUE0LRh0bDxA6RwBETRcABVsGQxVfGlVDShsLWEltBlgNVlYHRVAJDRYXXxUKR0lGWwxfXhFXFz4WUAIbCxBWB1AKERk=
+ 
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg" group-title="ESPAÑOLES", Antena 3 | HD
+https://a3m-a3-live-dash.secure.footprint.net/live/nas_live/a3/dash/a3.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=00ff29da4e0598b0de8a5b930b5c969d4997f9010
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telefe_Santa_Fe.png" group-title="ARGENTINOS", Telefe SF | HD
+https://telefecanal13hls-lh.akamaihd.net/i/Canal13_SantaFe@399238/index_11_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telefe_Santa_Fe.png" group-title="ESPAÑOLES", La 1 | HD
+https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0400_av-p.m3u8?sd=10&rebase=on
+ 
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg" group-title="ESPAÑOLES", Antena 3 GEO| HD
+https://livestartover.atresmedia.com/geoantena3/master.m3u8
+ 
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg" group-title="ESPAÑOLES", Antena 3 Op 3| HD
+https://livestartover.atresmedia.com/antena3/master.m3u8
