@@ -216,7 +216,7 @@ http://metrovision01.streamprolive.com/hls/live.m3u8
 #EXTINF:-1 tvg-logo="http://colimdotv.com/logo.fw.png" group-title="DOMINICANOS", Colimdotv | HD
 http://185.93.1.99:25461/live/antonio1/FV08ETb5On/1772.m3u8?token=HRtZUxZfQQIRUwJbUwFUBlBTCwRQUgJRVQZUDQRQVgEHXAIBA1FUAVdGHRsVFxdQBFpmDAFGDFIGAFcURxQVXBRmWFZHDUEJAlEEDlRBSRcRXlQAR14GTxNHDFxHW0QLUQsABUcbQV1LEFRLCAIJagFSTwwGARRZX0IJVElDCVc5XVRfBFkHGglGARtKQQxGFRUDCxAIWk8TVQxMFwASXEQDEwdVBVQaH0ZSVhMNEUccFQNHISsUTxNSHUwADxVQCVcTCEdaUE0LRh0bDxA6RwBETRcABVsGQxVfGlVDShsLWEltBlgNVlYHRVAJDRYXXxUKR0lGWwxfXhFXFz4WUAIbCxBWB1AKERk=
  
-#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg" group-title="ESPAÑOLES", Antena 3 | HD
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg" group-title="ESPAÑOLES", A3 | HD
 https://a3m-a3-live-dash.secure.footprint.net/live/nas_live/a3/dash/a3.mpd?begin=&end=&nvb=1595175238&nva=1910708034&hash=00ff29da4e0598b0de8a5b930b5c969d4997f9010
  
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telefe_Santa_Fe.png" group-title="ARGENTINOS", Telefe SF | HD
@@ -225,11 +225,15 @@ https://telefecanal13hls-lh.akamaihd.net/i/Canal13_SantaFe@399238/index_11_av-p.
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/Telefe_Santa_Fe.png" group-title="ESPAÑOLES", La 1 | HD
 https://hlsliveamdgl7-lh.akamaihd.net/i/hlsdvrlive_1@583042/index_0400_av-p.m3u8?sd=10&rebase=on
  
-#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg" group-title="ESPAÑOLES", Antena 3 GEO| HD
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg" group-title="ESPAÑOLES", A3 GEO| HD
 https://livestartover.atresmedia.com/geoantena3/master.m3u8
  
-#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg" group-title="ESPAÑOLES", Antena 3 Op 3| HD
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg" group-title="ESPAÑOLES", A3 Op 3| HD
 https://livestartover.atresmedia.com/antena3/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg" group-title="ESPAÑOLES", Antena 3 Op 4| HD
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg" group-title="ESPAÑOLES", AIR Op 4| HD
 http://91.126.141.13:1935/live/11/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg" group-title="ESPAÑOLES", AIR Op 5| HD
+http://91.126.141.13:1935/live/10/playlist.m3u8
+
