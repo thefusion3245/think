@@ -234,6 +234,6 @@ https://livestartover.atresmedia.com/antena3/master.m3u8
 #EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg" group-title="ESPAÑOLES", AIR Op 4| HD
 http://91.126.141.13:1935/live/11/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg" group-title="ESPAÑOLES", AIR Op 5| HD
-http://91.126.141.13:1935/live/10/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://brandemia.org/sites/default/files/inline/images/antena3_logo_nuevo.jpg" group-title="ESPAÑOLES", AIR Op 6| HD
+http://91.126.141.13:1935/live/11/bitrate_4.m3u8
 
