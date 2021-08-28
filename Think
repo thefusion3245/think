@@ -133,16 +133,16 @@ https://ss5.domint.net:3020/1001_str/1001tv/chunklist_w248788593.m3u8
 https://lb00zdigital.streamprolive.com/mnt/hls/live.m3u8
  
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1283151187899015168/KUzvWAMk_400x400.jpg" group-title="DOMINICANOS", Neon 89.3 FM | HD
-https://ss8.domint.net:3104/neo_str/neontv/chunklist_w436201506.m3u8
+https://rctvhdstream.com:8081/neon89-3tv/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-logo="https://domintapi.com/images/station/domint41img05-18-20201589833855.jpeg" group-title="DOMINICANOS", Studio 88.5 FM | HD
-https://ss5.domint.net:3030/stu_str/studiotv/chunklist_w1160594393.m3u8
+https://rctvhdstream.com:8081/studio88-5tv/tracks-v1a1/mono.m3u8
  
 #EXTINF:-1 tvg-logo="https://static-media.streema.com/media/cache/e5/7b/e57becf6dc7273bb2ee26ea501c1c8db.jpg" group-title="DOMINICANOS", La súper 7 | HD
 https://ss8.domint.net:3110/s7v_str/super7fm/chunklist_w52547188.m3u8
  
-#EXTINF:-1 tvg-logo="https://elnuevodiario.com.do/wp-content/uploads/2020/08/pura-640x640.jpg" group-title="DOMINICANOS", Pura Vida | HD
-https://video.misistemareseller.com:443/puravidatv/puravidatv/chunklist_w1019704079.m3u8
+#EXTINF:-1 https://yt3.ggpht.com/ytc/AKedOLRu-TrRky5bU2RNTnvwzj-lv2bsFcNL19Eh8JBfCQ=s900-c-k-c0x00ffffff-no-rj" group-title="DOMINICANOS", Rumba FM | HD
+https://ss5.domint.net:3038/rum_str/rumba985fm/chunklist_w245100412.m3u8
  
 #EXTINF:-1 tvg-logo="https://elnuevodiario.com.do/wp-content/uploads/2020/08/pura-640x640.jpg" group-title="DOMINICANOS", Mortal 104.9 FM | HD
 https://player-api.new.livestream.com/accounts/27456795/events/9288767/live.m3u8
